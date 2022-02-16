@@ -1,4 +1,4 @@
-# Project Name
+# Housing Price Prediction using advanced regression
 Assignment for House Price Prediction using advanced regression techniques
 
 ## Table of Contents
